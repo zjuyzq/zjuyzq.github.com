@@ -1,8 +1,4 @@
----
-layout: post
-title: "Hello World"
-description: ""
-category: 
-tags: []
----
-{% include JB/setup %}
+
+
+
+> Written with [StackEdit](http://benweet.github.io/stackedit/).
